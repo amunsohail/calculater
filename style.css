@@ -1,0 +1,19 @@
+#clear{
+    width:130px;
+}
+.formstyle{
+    width:130px;
+    height: 261px;
+    margin: auto;
+    border: 2px solid black;
+}
+input{
+    width: 40px;
+background-color: blue;
+color: rgb(36, 32, 32);
+
+}
+#answerstyle{
+    width:120px;
+
+}
